@@ -1,0 +1,6 @@
+<view class="box">
+  <view class="item" bindtap="tocjp">To  cjp</view>
+  <view class="item" bindtap="tolxh">To lxh</view>
+  <view class="item" bindtap="tolzw">To lzw</view>
+  <view class="item" bindtap="tocyf">To cyf</view>
+</view>
